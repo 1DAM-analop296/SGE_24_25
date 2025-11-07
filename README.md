@@ -12,8 +12,8 @@
 | <p><img src="https://static5.depositphotos.com/1011646/443/i/450/depositphotos_4434811-stock-photo-check-mark.jpg" style="width:20px;">Modificación </p> |  <p><img src="https://us.123rf.com/450wm/dezydezy/dezydezy2303/dezydezy230300060/199562638-red-cross-check-mark-rejection-and-no-voting-symbol-and-wrong-vector-action-choice-element.jpg" style="width:20px;">Misma licencia </p>|   |
 | <p><img src="https://static5.depositphotos.com/1011646/443/i/450/depositphotos_4434811-stock-photo-check-mark.jpg" style="width:20px;">Uso de patentes  </p>| <p> <img src="https://us.123rf.com/450wm/dezydezy/dezydezy2303/dezydezy230300060/199562638-red-cross-check-mark-rejection-and-no-voting-symbol-and-wrong-vector-action-choice-element.jpg" style="width:20px;">Cambios de estado </p>|   |
 | <p><img src="https://static5.depositphotos.com/1011646/443/i/450/depositphotos_4434811-stock-photo-check-mark.jpg" style="width:20px;">Uso privado </p> |  |  |
-
-<h1 style="text-align: center;">AgroSys</h1>
+<div>
+<h1 style="text-align: center;"><img src="https://www.softwaredoit.es/logotipos/agroptima.jpg?t=2023-02-16_14_40_14" style="width:100px;">AGROPTIMA</h1>
 <span>Hemos eligido el GNU v3 para promover la colaboración y la transparencia. Además, se protege el trabajo, si alguien moficica el software debe hacerlo bajo la licencia que mantengamos.<br/><br/></span>
 
 <span>Los derechos que va presentar GNU v3.0 son:</span>
@@ -30,7 +30,6 @@
   <li>Al distribuir el software aunque realices modificaciones debes divulgar su codigo fuente.</li>
   <li>No se pueden realizar restricciones privadas.</li>
 </ul>
-
 <span style="text-align: justify;">Por último haremos una comparación para observar si es mas rentable económica o eticamente. En el nivel economico es rentable si tu modelo se basa en soportes técnicos, pero si se basa en vender licencias exclusivas, cualquier persona que consiga ese software puede tener acceso a ese codigo fuente y distribuirlo. En lo ético, promueve la libertad, la colaboración y la transpaencia. </span>
 
-
+</div>
